@@ -12,18 +12,22 @@ public class Calculator {
     }
 
     private static int sum(int x, int y) {
+
         return x + y;
     }
 
     private static int substract(int x, int y) {
+
         return x - y;
     }
 
     private static int multiplication(int x, int y) {
+
         return x * y;
     }
 
     private static int division(int x, int y) {
+
         return x / y;
     }
 }
